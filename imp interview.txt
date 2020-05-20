@@ -25,3 +25,5 @@ Experience
 11. Anticipate issues that might arise and proactively consider those into design?
 
 12. Perform code reviews and suggest design changes?
+
+15 need to think positive
