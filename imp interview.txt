@@ -1,0 +1,27 @@
+Experience
+
+ 
+
+1. Between 2-10 years of relevant experience
+
+2. Fluent programming skills and well-versed with scripting languages like Python?
+
+3. Solid foundation in data structures and algorithms?
+
+4. Excellent tech troubleshooting skills?
+
+5. Excellent scraping knowledge and frameworks?
+
+6. Strong in Python, MS SQL, BeautifulSoup, Selenium, Regular expression, Stored Procedures and scraping?
+
+7. Hands on experience with selenium is a plus?
+
+8.Interface with internal client team to translate functional requirements into technical requirements?
+
+9. Plan and estimate tasks with your team?
+
+10. Engineer complex data acquisition projects?
+
+11. Anticipate issues that might arise and proactively consider those into design?
+
+12. Perform code reviews and suggest design changes?
